@@ -38,14 +38,24 @@
 // ***********   String   ***********
 
 
-var str = 'String'
-var str2 = "String"
-var str3 = `string`
+// var str = 'String'
+// var str2 = "String"
+// var str3 = `string`
 
 
-var str4 = String('sddshbkjg')
-var str5 = String(156)
-var str6 = String(3.1416)
+// var str4 = String('sddshbkjg')
+// var str5 = String(156)
+// var str6 = String(3.1416)
 
 
-console.log(str4, str5, str6)
+// console.log(str4, str5, str6)
+
+// ***********  Null vs Undefined  *********** 
+
+
+var abc 
+var xyz = null
+
+
+console.log (null)
+console.log(abc)
